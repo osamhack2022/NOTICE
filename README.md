@@ -1,6 +1,6 @@
 # NOTICE-osamhack2022
 
-## [실시간 개발현황 확인하기](https://osamhack2022.github.io/NOTICE/)
+## [실시간 개발현황 확인하기](https://osamhack2022-v2.github.io/NOTICE/)
 
 ## '2022 군장병 온라인 해커톤' 공지사항
 
