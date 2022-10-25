@@ -2,6 +2,8 @@
 
 ## [실시간 개발현황 확인하기](https://osamhack2022.github.io/NOTICE/)
 
+## codespace 사용과 관련하여 저장소가 이전되었습니다. (https://github.com/osamhack2022-v2)
+
 ## '2022 군장병 온라인 해커톤' 공지사항
 
 '2022년 군장병 온라인 해커톤'에 선발된 군장병 여러분 환영합니다.
